@@ -8,6 +8,9 @@
 		"start": "next start",
 		"lint": "next lint"
 	},
+	"engines": {
+		"node": "18.17.x"
+	},
 	"dependencies": {
 		"@tldraw/tldraw": "^2.0.0-canary.81f6fae070ad",
 		"@vercel/analytics": "^1.1.1",
